@@ -1,0 +1,115 @@
+Using TensorFlow backend.
+('hog shape: ', (132887, 648))
+('X_train shape:', (132887, 3, 50, 50))
+(132887, 'train samples')
+(25406, 'test samples')
+('hidden_num:', 512)
+('K:', 5)
+processing batch 12/133, eta 0:00:52
+processing batch 26/133, eta 0:00:42
+processing batch 44/133, eta 0:00:31
+processing batch 60/133, eta 0:00:25
+processing batch 76/133, eta 0:00:19
+processing batch 90/133, eta 0:00:14
+processing batch 106/133, eta 0:00:09
+processing batch 130/133, eta 0:00:00
+processing batch 32/133, eta 0:00:16
+processing batch 60/133, eta 0:00:12
+processing batch 80/133, eta 0:00:10
+processing batch 105/133, eta 0:00:05
+right_weight:54086.0
+right rate:0.407007457464
+right_weight:10323.0
+right rate:0.406321341415
+elm_0 weight:0.407007457464
+sum:132887
+processing batch 24/133, eta 0:00:23
+processing batch 44/133, eta 0:00:20
+processing batch 73/133, eta 0:00:12
+processing batch 93/133, eta 0:00:08
+processing batch 120/133, eta 0:00:02
+processing batch 19/80, eta 0:00:17
+processing batch 36/80, eta 0:00:12
+processing batch 51/80, eta 0:00:08
+processing batch 66/80, eta 0:00:04
+processing batch 29/133, eta 0:00:18
+processing batch 76/133, eta 0:00:07
+processing batch 103/133, eta 0:00:04
+processing batch 127/133, eta 0:00:00
+right_weight:51380.0
+right rate:0.202781310437
+right_weight:5283.0
+right rate:0.195072030229
+elm_1 weight:0.242715694796
+sum:211688.0
+processing batch 24/133, eta 0:00:22
+processing batch 45/133, eta 0:00:19
+processing batch 73/133, eta 0:00:12
+processing batch 99/133, eta 0:00:06
+processing batch 19/106, eta 0:00:23
+processing batch 40/106, eta 0:00:16
+processing batch 73/106, eta 0:00:06
+processing batch 90/106, eta 0:00:03
+processing batch 106/106, eta 0:00:00
+processing batch 30/133, eta 0:00:17
+processing batch 104/133, eta 0:00:02
+processing batch 130/133, eta 0:00:00
+right_weight:108922.0
+right rate:0.399256511171
+right_weight:20894.0
+right rate:0.40010233803
+elm_2 weight:0.342923167983
+sum:317628.0
+processing batch 35/133, eta 0:00:14
+processing batch 92/133, eta 0:00:04
+processing batch 117/133, eta 0:00:02
+processing batch 15/80, eta 0:00:22
+processing batch 31/80, eta 0:00:16
+processing batch 47/80, eta 0:00:11
+processing batch 60/80, eta 0:00:06
+processing batch 77/80, eta 0:00:01
+processing batch 73/133, eta 0:00:04
+processing batch 105/133, eta 0:00:02
+right_weight:86065.0
+right rate:0.211668560506
+processing batch 21/26, eta 0:00:01
+right_weight:10772.0
+right rate:0.204400535307
+elm_3 weight:0.216538058014
+sum:397459.0
+processing batch 35/133, eta 0:00:14
+processing batch 66/133, eta 0:00:10
+processing batch 89/133, eta 0:00:07
+processing batch 112/133, eta 0:00:03
+processing batch 15/105, eta 0:00:30
+processing batch 35/105, eta 0:00:20
+processing batch 54/105, eta 0:00:14
+processing batch 68/105, eta 0:00:11
+processing batch 84/105, eta 0:00:06
+processing batch 55/133, eta 0:00:07
+processing batch 83/133, eta 0:00:06
+processing batch 104/133, eta 0:00:04
+processing batch 128/133, eta 0:00:00
+right_weight:161441.0
+right rate:0.394289885391
+right_weight:31041.0
+right rate:0.397268361804
+elm_4 weight:0.32145602109
+sum:502218.0
+processing batch 64/133, eta 0:00:05
+processing batch 81/133, eta 0:00:03
+processing batch 118/133, eta 0:00:01
+processing batch 43/133, eta 0:00:11
+processing batch 83/133, eta 0:00:06
+processing batch 129/133, eta 0:00:00
+processing batch 22/133, eta 0:00:26
+processing batch 56/133, eta 0:00:14
+processing batch 79/133, eta 0:00:10
+processing batch 104/133, eta 0:00:05
+processing batch 127/133, eta 0:00:01
+processing batch 26/133, eta 0:00:21
+processing batch 49/133, eta 0:00:17
+processing batch 77/133, eta 0:00:11
+processing batch 120/133, eta 0:00:02
+adapt elm right rate:0.405419642252
+adapt elm right rate:0.40439266315
